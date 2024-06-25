@@ -1,0 +1,17 @@
+
+========================================================
+		MẠCH CÂN BĂNG MÁY BAY MÔ HÌNH RC
+========================================================
+
+*** Linh Kiện/Components:
+- Arduino nano
+- MPU6050
+- Tụ 300-100uF, 10-50V
+
+*** Tính Năng/Features:
+- Giúp máy bay tự động cân bằng, dễ điều khiển.
+- Dùng cho các mô hình máy bay có mix kênh như: F22, 
+Su27, F16,...
+- Có 1 Switch On/Off để bật tắt tính năng cân bằng.
+
+
