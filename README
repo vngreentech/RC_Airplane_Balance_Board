@@ -6,7 +6,8 @@
 *** Linh Kiện/Components:
 - Arduino nano
 - MPU6050
-- Tụ 300-100uF, 10-50V
+- Capacitor 300-100uF, 10-50V
+- Power directly from the ESC
 
 *** Tính Năng/Features:
 - Giúp máy bay tự động cân bằng, dễ điều khiển.
